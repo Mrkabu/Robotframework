@@ -1,3 +1,5 @@
+#  selenium2library help: http://robotframework.org/Selenium2Library/Selenium2Library.html
+
 *** Settings ***
 Documentation   Test ncplusgo.pl
 Library         Selenium2Library
