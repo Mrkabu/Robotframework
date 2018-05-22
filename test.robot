@@ -2,6 +2,7 @@
 #  uruchomienie z timestamp: pybot -d \sciezka\do\folderu\nazwa_folderu -T --timestampoutputs test.robot
 #  uruchomienie drugiego test caseu: pybot -i Second_test_of_ncplusgo -d ncplusgo3 -T --timestampoutputs test.robot
 #  wskazowki jak poprawnie pisac testy: https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst
+#  robotframework na github: https://github.com/robotframework
 
 *** Settings ***
 Documentation   Test ncplusgo.pl
