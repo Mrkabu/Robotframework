@@ -14,8 +14,8 @@ ${browser}  chrome
 ${url}      https://ncplusgo.pl/
 ${title}    nc+ GO
 ${timeout}  3s
-${login}    jakub.kucharski@ncplus.pl
-${pass}     123buraczki
+${login}    type here login
+${pass}     type here password
 ${zaloguj}  xpath=//*[@id="top"]/div/div/div/div/nav/ul/li[2]/a
 ${terazwtv}  xpath=//*[@id="top"]/div/div/div/div/div/nav/a[2]
 ${email}  xpath=//*[@id="Email"]
